@@ -1,0 +1,3 @@
+displayName = Extra Archer Accessories
+author = GTLugo
+version = 0.1
